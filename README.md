@@ -453,3 +453,4 @@ Found a great tutorial we missed? See [CONTRIBUTING.md](CONTRIBUTING.md) for how
 |---------|-------------|
 | [Awesome AI Tools](https://github.com/OuterSpacee/awesome-ai-tools) | 200+ AI tools across 22 categories |
 | [AI Engineering Handbook](https://github.com/OuterSpacee/ai-engineering-handbook) | Everything you need to build production AI apps |
+| [aimsg](https://github.com/OuterSpacee/aimsg) | AI-powered git commit messages — free with Ollama |
