@@ -444,3 +444,12 @@ Found a great tutorial we missed? See [CONTRIBUTING.md](CONTRIBUTING.md) for how
 **If you find this useful, please give it a star. It helps others discover it.**
 
 </div>
+
+---
+
+## Also By OuterSpacee
+
+| Project | Description |
+|---------|-------------|
+| [Awesome AI Tools](https://github.com/OuterSpacee/awesome-ai-tools) | 200+ AI tools across 22 categories |
+| [AI Engineering Handbook](https://github.com/OuterSpacee/ai-engineering-handbook) | Everything you need to build production AI apps |
